@@ -10,12 +10,14 @@ number of values is the same in each line.
 4. The application sorts all lines alphabetically by the first value in each line.
 5. The application prints the result immediately, when the user ends to enter input text (presses <Enter> at a new line).
 6. The application supports options:
+```
 Option usage
          -i file-name | Use a file with the name file-name as an input.
          -o file-name | Use a file with the name file-name as an output.
          -h           | The first line is a header that must be ignored during sorting but included in the output.
          -f N         | Sort input lines by value number N.
          -r           | Sort input lines in reverse order.
+```
  ### How to use
  1. clone repository
  2. run 
