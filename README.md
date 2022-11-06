@@ -1,4 +1,4 @@
-## task 1
+## Task 1
 ### for Development of microservice systems in the Golang language
 “CSV Sorter” is a CLI application that allows sorting of its input presented as CSV-text.
 Technical details
@@ -22,6 +22,6 @@ Option usage
  1. clone repository
  2. run 
  ```shell
- cd project
+ cd go-csv-sorter
  go run main.go
  ```
